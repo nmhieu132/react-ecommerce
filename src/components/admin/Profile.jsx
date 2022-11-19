@@ -1,13 +1,13 @@
 import React from "react";
-import MainContent from "../../layout/admin/MainContent";
+import MainContent from "../../layout/admin/MainContent.jsx";
 
 
 
 function Profile() {
     return (
-        <MainContent>
+         <div>
             Profile
-        </MainContent>
+        </div>
     );
 }
 
